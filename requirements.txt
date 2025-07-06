@@ -3,7 +3,7 @@ pandas
 numpy
 datetime
 pytz
-matplotlib.pyplot
+matplotlib
 time
 scipy
 plotly
