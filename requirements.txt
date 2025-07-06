@@ -1,9 +1,7 @@
 streamlit
 pandas
 numpy
-datetime
 pytz
 matplotlib
-time
 scipy
 plotly
